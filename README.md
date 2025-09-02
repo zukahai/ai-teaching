@@ -1,77 +1,134 @@
-# � Documentation Template
+# 🎓🤖 Ứng dụng AI vào Giảng dạy
 
-A modern and flexible documentation template built with VitePress. Perfect for creating beautiful documentation for any type of project.
+Khóa học toàn diện về ứng dụng AI trong giảng dạy, được viết hoàn toàn bằng tiếng Việt và thiết kế dành cho người chưa biết gì về AI.
 
-## � Features
+## 🌟 Đặc điểm nổi bật
 
-- **Clean Design**: Professional and modern appearance
-- **Responsive Layout**: Works perfectly on all devices
-- **Easy Customization**: Simple to adapt for your needs
-- **Fast Performance**: Built with VitePress for optimal speed
-- **Search Functionality**: Built-in search capabilities
-- **Markdown Support**: Write content in familiar Markdown syntax
+- **🇻🇳 Hoàn toàn tiếng Việt** - Dễ hiểu cho người Việt
+- **🆓 Tập trung công cụ miễn phí** - ChatGPT Free, Canva AI, Microsoft Office AI
+- **📚 Từ cơ bản đến nâng cao** - Bắt đầu từ con số 0
+- **💼 Thực hành ngay** - Ứng dụng trực tiếp vào công việc giảng dạy
+- **🎯 Cho mọi cấp học** - Từ mầm non đến đại học
 
-## 🚀 Quick Start
+## 📖 Nội dung khóa học
 
-1. **Clone the repository**
+### 📖 1. Giới thiệu khóa học
+- 🎯 Mục tiêu học tập
+- 👥 Đối tượng tham gia  
+- ✨ Lợi ích khi ứng dụng AI
+
+### ⚙️ 2. Kiến thức nền tảng về AI
+- 🧠 AI là gì?
+- 🌐 Các nhánh của AI (ML, NLP, CV...)
+- 📚 AI trong đời sống và giáo dục
+
+### 🛠️ 3. Công cụ AI hỗ trợ giảng dạy
+- 🗨️ ChatGPT Free & các mô hình ngôn ngữ
+- 🎨 Công cụ tạo hình ảnh (Canva AI, DALL·E free)
+- 🎥 Công cụ tạo video & slide AI
+- 📝 Công cụ tạo câu hỏi & trắc nghiệm tự động
+
+### 📑 4. Ứng dụng AI trong soạn giảng
+- 📖 Tạo giáo án thông minh
+- 🎬 Thiết kế slide giảng dạy nhanh
+- 🔎 Sinh ví dụ minh họa và bài tập
+- 👩‍🏫 Tạo nội dung cá nhân hóa cho học viên
+
+### 💼 5. Ứng dụng AI trong Microsoft Office
+- 📝 Sử dụng AI trong Word (viết giáo án, tóm tắt, chỉnh sửa)
+- 📊 Sử dụng AI trong Excel (phân tích dữ liệu, tạo bảng điểm)
+- 🎤 Sử dụng AI trong PowerPoint (tạo slide tự động, gợi ý thiết kế)
+- 🌐 Tích hợp GPT Free vào Office qua web & add-ins
+
+### 🏫 6. Ứng dụng AI trong quản lý lớp học
+- 💬 Chatbot hỗ trợ học viên
+- 📊 Tự động chấm bài & phản hồi
+- 📈 Theo dõi tiến độ học tập
+- 🛤️ Gợi ý lộ trình học cá nhân hóa
+
+### 💡 7. Thực hành & Case Study
+- ✍️ Soạn giáo án bằng GPT Free
+- 🧾 Tạo bộ câu hỏi kiểm tra tự động
+- 🎨 Dùng AI để thiết kế slide & hình ảnh
+- 🏆 Case Study: Lớp học áp dụng AI thực tế
+
+### ⚖️ 8. Lưu ý và Đạo đức khi dùng AI
+- ❗ Hạn chế & sai sót của AI
+- 📜 Bản quyền & nguồn tài nguyên
+- 👨‍👩‍👧‍👦 Đảm bảo sự công bằng và minh bạch
+
+### 🚀 9. Tổng kết & Định hướng tiếp theo
+- 📚 Ôn tập & hệ thống kiến thức
+- 🎯 Định hướng áp dụng lâu dài
+- 🔗 Cơ hội nâng cao & tài nguyên học thêm
+
+## 🚀 Bắt đầu học
+
+### 📱 Trực tuyến
+Truy cập: **[zukahai.github.io/ai-teaching](https://zukahai.github.io/ai-teaching)**
+
+### 💻 Chạy local
+
+1. **Clone repository**
    ```bash
-   git clone https://github.com/yourusername/documentation-template.git
-   cd documentation-template
+   git clone https://github.com/zukahai/ai-teaching.git
+   cd ai-teaching
    ```
 
-2. **Install dependencies**
+2. **Cài đặt dependencies**
    ```bash
    npm install
    ```
 
-3. **Start development server**
+3. **Chạy development server**
    ```bash
    npm run docs:dev
    ```
 
-4. **Build for production**
+4. **Build để deploy**
    ```bash
    npm run docs:build
    ```
 
-## 📁 Project Structure
+## 🎯 Đối tượng học
 
-```
-docs/
-│── index.md                  # Homepage
-│── introduction/             # Getting started section
-│   ├── intro.md             # Introduction and overview
-│── appendix/                # Additional resources
-│   ├── cheatsheet.md        # Quick reference
-│   ├── faq.md               # Frequently asked questions
-│   └── resources.md         # Links and resources
-```
+- **Giáo viên phổ thông** các cấp học
+- **Giảng viên đại học** và cao đẳng
+- **Người làm đào tạo** trong doanh nghiệp
+- **Học sinh, sinh viên** muốn hỗ trợ học tập
+- **Phụ huynh** muốn hỗ trợ con em
 
-## 🎨 Customization
+## 📚 Cấu trúc bài học
 
-1. **Update site configuration** in `docs/.vitepress/config.js`
-2. **Modify the homepage** in `docs/index.md`
-3. **Add your content** in the respective markdown files
-4. **Customize styling** by editing the CSS files
+Mỗi bài học đều tuân theo format:
 
-## 📝 Writing Content
+- **🎯 Giới thiệu & Liên hệ thực tế** - Tình huống cụ thể
+- **🔧 Khái niệm & Cú pháp** - Hướng dẫn từng bước
+- **🔬 Phân tích & Giải thích chi tiết** - Tại sao và khi nào dùng
+- **💻 Ví dụ minh họa** - Demo thực tế với công cụ
+- **🏋️ Thực hành** - Bài tập từ cơ bản đến nâng cao
+- **📋 Tóm tắt & Chuẩn bị cho bài sau** - Ôn tập và liên kết
 
-All content is written in Markdown format. You can:
-- Add new pages by creating `.md` files
-- Organize content in folders
-- Use VitePress features like custom containers
-- Include diagrams with Mermaid
-
-## �️ Built With
+## 🛠️ Công nghệ sử dụng
 
 - [VitePress](https://vitepress.dev/) - Static site generator
 - [Vue 3](https://vuejs.org/) - Frontend framework
 - [Markdown](https://www.markdownguide.org/) - Content format
+- [Mermaid](https://mermaid.js.org/) - Diagrams
 
-## � License
+## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Dự án này được phát hành dưới giấy phép MIT - xem file [LICENSE](LICENSE) để biết chi tiết.
 
-## 🤝 Contributing
+## 🤝 Đóng góp
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Chúng tôi hoan nghênh mọi đóng góp! Hãy tạo Pull Request hoặc mở Issue để thảo luận.
+
+## 📞 Liên hệ
+
+- **GitHub**: [@zukahai](https://github.com/zukahai)
+- **Email**: [zukahai@gmail.com](mailto:zukahai@gmail.com)
+
+---
+
+*"AI không thay thế giáo viên, nhưng giáo viên sử dụng AI sẽ thay thế giáo viên không sử dụng AI"*
