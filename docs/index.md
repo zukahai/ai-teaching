@@ -1,6 +1,5 @@
 ---
 layout: home
-
 hero:
   name: "Ứng dụng AI vào Giảng dạy"
   text: "Khóa học toàn diện 🎓🤖"
@@ -13,9 +12,8 @@ hero:
       text: Bắt đầu học ngay
       link: /chuong-1/muc-tieu
     - theme: alt
-      text: Xem trên GitHub
-      link: https://github.com/zukahai/ai-teaching
-
+      text: Học bằng Video
+      link: https://haizuka.vn/course/?c=ung-dung-ai-vao-giang-day
 features:
   - icon: 🎯
     title: Từ cơ bản đến nâng cao
@@ -35,6 +33,11 @@ features:
   - icon: ⚡
     title: Tiết kiệm thời gian
     details: Tự động hóa việc soạn giáo án, tạo câu hỏi, chấm bài
+---
+    details: Tự động hóa việc soạn giáo án, tạo câu hỏi, chấm bài
+## 🌟 Chào mừng đến với khóa học AI trong giảng dạy!
+...existing code...
+---
 ---
 
 ## 🌟 Chào mừng đến với khóa học AI trong giảng dạy!
