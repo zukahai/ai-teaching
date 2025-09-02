@@ -1,8 +1,8 @@
 {
-  "name": "documentation-template",
+  "name": "ai-teaching-course",
   "version": "1.0.0",
   "type": "module",
-  "description": "Modern documentation template for any project",
+  "description": "Khóa học Ứng dụng AI vào Giảng dạy - AI Teaching Course in Vietnamese",
   "main": "index.js",
   "scripts": {
     "docs:dev": "vitepress dev docs",
@@ -11,12 +11,14 @@
     "deploy": "npm run docs:build && gh-pages -d docs/.vitepress/dist -b gh-pages"
   },
   "keywords": [
-    "documentation",
-    "template",
-    "vitepress",
-    "markdown",
-    "website",
-    "docs"
+    "ai",
+    "artificial-intelligence",
+    "teaching",
+    "education",
+    "vietnamese",
+    "giảng-dạy",
+    "chatgpt",
+    "vitepress"
   ],
   "author": "zukahai",
   "license": "MIT",
