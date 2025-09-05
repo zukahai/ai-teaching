@@ -11,6 +11,40 @@ export default withMermaid({
     // mermaid config options
   },
 
+  // Vite build options passed through VitePress to control bundling
+  vite: {
+    // Resolve aliases to ensure problematic packages load their bundled dist
+    resolve: {
+      alias: {
+        // Some imports reference the library's `src/*` files directly.
+        // Map those to the library's prebuilt ESM bundle so the bundler
+        // doesn't attempt to load internal src files at build time.
+        'mark.js/src/vanilla.js': 'mark.js/dist/mark.es6.js',
+        'mark.js/src/lib/mark': 'mark.js/dist/mark.es6.js',
+        'mark.js': 'mark.js/dist/mark.es6.js'
+      }
+    },
+    build: {
+      // Increase the warning limit so dev/build doesn't spam large-chunk warnings
+      chunkSizeWarningLimit: 1000,
+      rollupOptions: {
+        output: {
+          // Basic manualChunks function to split node_modules into vendor bundles
+          manualChunks(id) {
+            if (!id) return;
+            if (id.includes('node_modules')) {
+              if (id.includes('vue')) return 'vendor_vue';
+              if (id.includes('@vue')) return 'vendor_vue';
+              // common large libs
+              if (id.includes('lodash') || id.includes('dayjs') || id.includes('axios')) return 'vendor_misc';
+              return 'vendor';
+            }
+          }
+        }
+      }
+    }
+  },
+
   themeConfig: {
     search: {
       provider: 'local',

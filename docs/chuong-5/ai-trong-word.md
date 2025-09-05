@@ -1,296 +1,46 @@
-<<<<<<< HEAD
+````markdown
 ---
 title: AI trong Word
 ---
 
-# AI trong Word (dành cho người mới)
+# AI trong Word — Hướng dẫn thực hành cho giáo viên
 
-Hướng dẫn đơn giản để tận dụng các công cụ thông minh trong Word giúp soạn thảo giáo án, báo cáo và thư từ cho phụ huynh nhanh hơn.
+Mục tiêu: Hướng dẫn cách dùng Copilot/ChatGPT và các add-in để soạn giáo án, viết báo cáo, và tạo mẫu văn bản nhanh, chính xác, dành cho giáo viên mới làm quen.
 
 ## 1. AI giúp gì trong Word
-- Viết nháp (draft) từ ý chính
-- Chỉnh sửa câu, rút gọn hoặc đổi phong cách (trang trọng/thoải mái)
-- Tóm tắt tài liệu dài thành vài câu
-- Tạo mẫu văn bản (giáo án, thư mời, phiếu đánh giá)
+- Viết nháp từ outline hoặc ý chính.
+- Chỉnh sửa câu, đổi phong cách (formal/casual), rút gọn văn bản.
+- Tóm tắt tài liệu dài thành tóm tắt ngắn.
+- Sinh mẫu văn bản: giáo án, thư phụ huynh, phiếu đánh giá.
 
 ## 2. Bắt đầu nhanh — ví dụ thực hành
 1. Mở Word và viết tiêu đề: "Giáo án: Bài học về ChatGPT".
-2. Viết 2-3 câu mục tiêu bài học.
-3. Chọn đoạn văn và dùng chức năng gợi ý để yêu cầu: "Làm rõ mục tiêu này thành 3 câu ngắn gọn".
+2. Viết 2–3 câu mục tiêu bài học.
+3. Mở Copilot hoặc ChatGPT sidebar, chọn đoạn cần chỉnh và yêu cầu: "Làm rõ mục tiêu này thành 3 câu ngắn gọn".
 4. Yêu cầu AI tóm tắt phần lý thuyết thành 5 bullet points để đưa vào slide.
 
 ## 3. Quy trình tạo báo cáo tổng kết (nhanh)
-1. Chuẩn bị số liệu (từ Excel).
-2. Dán dữ liệu hoặc phần tóm tắt vào Word.
-3. Yêu cầu AI: "Viết phần phân tích kết quả học tập gồm: tổng quan, điểm mạnh, điểm yếu, đề xuất".
-4. Chỉnh sửa tay các chi tiết quan trọng trước khi in hoặc gửi đi.
+1. Chuẩn bị số liệu (từ Excel) và dán phần tóm tắt vào Word.
+2. Yêu cầu AI: "Viết phần phân tích kết quả học tập gồm: tổng quan, điểm mạnh, điểm yếu, đề xuất".
+3. Kiểm tra lại, chỉnh sửa các chi tiết nhạy cảm và hoàn thiện định dạng trước khi in/gửi.
 
-## 4. Mẫu prompt dễ dùng (tiếng Việt)
-"Viết giáo án 45 phút về ChatGPT cho học sinh lớp 10, gồm: mục tiêu, hoạt động dạy-học, tài liệu, và cách đánh giá."
+## 4. Mẫu prompt tiếng Việt
+"Viết giáo án 45 phút về ChatGPT cho học sinh lớp 10: mục tiêu, hoạt động dạy-học, tài liệu, và cách đánh giá."
 
-## 5. Công cụ bổ trợ hữu ích
-- Grammarly (kiểm lỗi tiếng Anh) — nếu bạn soạn bằng tiếng Anh
-- Công cụ kiểm tra đạo văn (nếu cần đảm bảo nguồn tài liệu)
+## 5. Công cụ và add-ins hữu ích
+- Microsoft Copilot (nếu có license)
+- ChatGPT sidebar / ChatGPT Writer (extension)
+- Grammarly (kiểm lỗi tiếng Anh)
 
-## 6. Thực hành: Thử thách 45 phút
-1. Tạo giáo án 45 phút cho 1 tiết học.
-2. Dùng AI để viết phần lý thuyết, bài tập và câu hỏi kiểm tra nhanh.
-3. Chỉnh sửa để phù hợp với phong cách của bạn và xuất PDF.
-
-## 7. Lưu ý về bảo mật
-- Không gửi thông tin nhạy cảm (số CMND, địa chỉ nhà, email cá nhân) cho dịch vụ AI công khai.
-- Luôn rà soát nội dung do AI sinh ra trước khi gửi cho phụ huynh hoặc ban giám hiệu.
+## 6. Lưu ý bảo mật
+- Không gửi thông tin nhạy cảm (số CMND, email, số điện thoại) cho dịch vụ AI công khai.
+- Luôn rà soát và hiệu chỉnh nội dung AI sinh trước khi gửi cho phụ huynh hoặc ban giám hiệu.
 
 ---
-Nếu bạn muốn, tôi sẽ giúp chuyển một số đoạn mẫu sang template Word (.docx) để bạn dùng ngay.
-=======
-# 📝 5.1 Sử dụng AI trong Word
 
-## 🎯 Giới thiệu & Liên hệ thực tế
+Nếu bạn muốn, tôi có thể giúp tạo template .docx hoặc chuỗi prompt để sinh hàng loạt văn bản.
 
-Thứ 6 tuần này bạn cần hoàn thành:
-
-- 📄 **Báo cáo tổng kết** học kỳ 1 (15 trang)
-- 📋 **Đề cương** chi tiết cho 3 môn học (20 trang)
-- ✍️ **Phiếu đánh giá** học sinh cá nhân hóa (50 học sinh)
-- 📊 **Thống kê** kết quả học tập với charts
-- ⏰ **Deadline**: Thứ 2 tuần sau!
-
-**Cách truyền thống:**
-- 🖊️ Viết thủ công mỗi từ: 12-15 giờ
-- 📝 Format và chỉnh sửa: 3-4 giờ
-- 📊 Tạo biểu đồ: 2-3 giờ
-- 🔍 Proofread và finalize: 2 giờ
-- **Total: 19-24 giờ** → Cả tuần "đắm chìm" trong Word! 😵
-
-**Với AI trong Word**: **3-4 giờ** hoàn thành tất cả!
-
-Hôm nay học cách **"siêu tăng tốc"** công việc văn bản với Microsoft Copilot và AI add-ins cho Word.
-
-## 🤖 Microsoft 365 Copilot - Game Changer
-
-### 📋 Tổng quan
-
-**Copilot trong Word** là AI assistant được tích hợp sẵn, có thể:
-- ✍️ **Viết draft** từ outline hoặc prompt
-- 🔄 **Rewrite** content với tone khác nhau
-- 📝 **Summarize** documents dài
-- 💡 **Suggest** improvements và ideas
-- 📊 **Transform** data thành narrative
-- 🌍 **Translate** giữa nhiều ngôn ngữ
-
-### 🚀 Cách kích hoạt và sử dụng
-
-**Bước 1: Setup (5 phút)**
-```
-Yêu cầu system:
-- Microsoft 365 subscription (Education usually free)
-- Word for Web hoặc Word Desktop (latest version)
-- Internet connection
-
-Access:
-- Mở Word → Look for "Copilot" icon in ribbon
-- Hoặc type "/" để activate inline
-```
-
-**Bước 2: Basic commands**
-```
-Copilot command patterns:
-
-"Draft [type of document] about [topic]"
-"Rewrite this to be more [formal/casual/persuasive]"
-"Summarize this document in [number] paragraphs"
-"Create an outline for [topic]"
-"Add examples to explain [concept]"
-```
-
-## 📚 Workflows cho từng tình huống giáo dục
-
-### 📊 Báo cáo tổng kết học kỳ
-
-**Prompt sequence:**
-```
-Prompt 1: Structure Creation
-"Draft an end-of-semester academic report outline for a Vietnamese high school math teacher. Include sections for: student performance analysis, curriculum completion, teaching methodology review, challenges faced, and recommendations for next semester."
-
-Prompt 2: Data Integration  
-"Transform this grade data into narrative analysis: [paste Excel data]. Focus on trends, improvements, and areas needing attention."
-
-Prompt 3: Professional Tone
-"Rewrite this section to be more formal and suitable for school administration review."
-
-Prompt 4: Visual Enhancement
-"Suggest where charts and graphs would be most effective in this report."
-```
-
-**Expected output:**
-```
-BÁO CÁO TỔNG KẾT HỌC KỲ I - TOÁN 9
-
-I. TỔNG QUAN CHUNG
-Trong học kỳ I năm học 2024-2025, bộ môn Toán 9 đã hoàn thành 85% chương trình theo kế hoạch...
-
-II. PHÂN TÍCH KẾT QUẢ HỌC TẬP
-[AI-generated analysis based on your data]
-- Điểm trung bình toàn khối: 7.2 (tăng 0.4 so với HK1 năm trước)
-- Tỷ lệ đạt: 92% (tăng 5%)
-- Phân tích chi tiết theo từng lớp...
-
-III. ĐÁNH GIÁ PHƯƠNG PHÁP DẠY HỌC
-[AI analysis of teaching methods effectiveness]
-
-[Continued with professional formatting and insights]
-```
-
-### 📝 Đề cương môn học
-
-**Advanced prompting:**
-```
-Context Setting:
-"I need to create a detailed curriculum outline for [subject] grade [X] following Vietnamese education standards."
-
-Detailed Prompt:
-"Create a comprehensive curriculum outline including:
-- Learning objectives aligned with national standards
-- Weekly breakdown of topics
-- Assessment methods and timing
-- Required materials and resources
-- Cross-curricular connections
-- Differentiation strategies for diverse learners"
-
-Customization:
-"Adapt this outline for students with mixed ability levels, including extension activities for advanced learners and support strategies for struggling students."
-```
-
-### ✍️ Phiếu đánh giá cá nhân hóa
-
-**Bulk generation workflow:**
-```
-Step 1: Template Creation
-"Create a student evaluation template that includes: academic performance, behavioral observations, strengths, areas for improvement, and personalized recommendations for parents."
-
-Step 2: Student-specific adaptation
-"Customize this evaluation for a student who: [insert specific characteristics - high achiever, struggling with math, excellent in arts, etc.]"
-
-Step 3: Batch processing
-"Generate 5 variations of this evaluation for different student profiles: high achiever, average performer, struggling student, behavioral concerns, exceptional creativity."
-```
-
-## 🛠️ AI Add-ins và Extensions
-
-### 🧠 Grammarly Business - Writing Enhancement
-
-**Features for educators:**
-- **Advanced grammar**: Vietnamese context understanding
-- **Tone detection**: Formal vs casual appropriateness
-- **Plagiarism checker**: Essential for academic writing
-- **Style suggestions**: Clarity and conciseness
-- **Team features**: Consistent style across department
-
-**Workflow integration:**
-```
-1. Write initial draft với Copilot
-2. Grammarly auto-reviews for errors
-3. Accept/reject suggestions
-4. Final polish with tone adjustments
-```
-
-### 📊 TextCortex - Content Generation
-
-**Specialized for education:**
-```
-Templates available:
-- Lesson plan summaries
-- Parent communication letters
-- Student recommendation letters
-- Administrative reports
-- Grant application writing
-```
-
-### 🌍 DeepL Write - Advanced Translation
-
-**For multilingual documents:**
-```
-Use cases:
-- Translate student materials to parent's native language
-- Convert English research into Vietnamese summaries
-- Create bilingual assessment rubrics
-- International collaboration documents
-```
-
-## 📋 Document Types & AI Strategies
-
-### 📄 Administrative Documents
-
-**Meeting minutes automation:**
-```
-Prompt: "Convert these meeting notes into formal minutes format: [paste raw notes]"
-
-AI output:
-- Attendees list
-- Agenda items covered
-- Decisions made
-- Action items with owners
-- Next meeting date
-```
-
-**Policy documents:**
-```
-Prompt: "Create a classroom technology policy that addresses: device usage, internet safety, AI tool guidelines, and consequences for misuse. Make it clear for students and parents."
-
-Features:
-- Clear language appropriate for age
-- Specific examples
-- Consequences clearly stated
-- Parent acknowledgment section
-```
-
-### 📚 Curriculum Materials
-
-**Unit overviews:**
-```
-Template prompt:
-"Create a unit overview for [subject] [grade] covering [topics]. Include:
-- Essential questions
-- Learning outcomes
-- Key vocabulary
-- Assessment strategies
-- Timeline breakdown
-- Cross-curricular connections"
-```
-
-**Study guides:**
-```
-Auto-generation from textbook content:
-"Transform this chapter content into a student study guide with:
-- Key concepts highlighted
-- Practice questions
-- Memory aids and mnemonics
-- Self-assessment checklist"
-```
-
-### 💌 Communication Templates
-
-**Parent newsletters:**
-```
-Seasonal automation:
-"Create a monthly parent newsletter including:
-- Upcoming events and deadlines
-- Curriculum highlights this month
-- Ways parents can support learning at home
-- Celebration of student achievements
-- Technology/AI integration updates"
-```
-
-**Student feedback:**
-```
-Personalized comments:
-"Generate positive, constructive feedback for a student who: [describes specific situation]. Include specific praise and actionable suggestions for improvement."
-```
-
-## 🎯 Advanced Features & Integrations
-
-### 📊 Excel Data Integration
+````
 
 **Grade analysis narratives:**
 ```
@@ -1517,4 +1267,4 @@ Bây giờ bạn có đầy đủ knowledge và skills để:
 **💪 Remember:** Mastery đòi hỏi continuous practice và exploration. Keep experimenting, learning, và sharing knowledge với community!
 
 **🔜 Bài tiếp theo:** [AI trong Excel](/chuong-5/ai-trong-excel) - Discover how to revolutionize data analysis và student performance tracking!
->>>>>>> 55c34c8bd998785e565e9ab071ea0fbe191a628f
+ 

@@ -1,3 +1,9 @@
+## Deployment
+
+Deploy tự động: Có một GitHub Actions workflow (`.github/workflows/deploy-docs.yml`) sẽ build site và publish nội dung trong `docs/.vitepress/dist` lên nhánh `gh-pages` khi có push vào `main`.
+
+Deploy thủ công: Chạy `npm run docs:build` rồi publish nội dung của `docs/.vitepress/dist` lên nhánh `gh-pages` bằng cách bạn chọn (ví dụ dùng `gh-pages` local hoặc push thủ công).
+
 # 🎓🤖 Ứng dụng AI vào Giảng dạy
 
 Khóa học toàn diện về ứng dụng AI trong giảng dạy, được viết hoàn toàn bằng tiếng Việt và thiết kế dành cho người chưa biết gì về AI.

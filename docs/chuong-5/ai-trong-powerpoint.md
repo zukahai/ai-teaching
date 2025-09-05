@@ -2,140 +2,52 @@
 title: AI trong PowerPoint
 ---
 
-<<<<<<< HEAD
 # AI trong PowerPoint (dành cho người mới)
 
-Giải thích ngắn gọn cách dùng các công cụ thông minh trong PowerPoint để thiết kế slide nhanh, đẹp và phù hợp với học sinh.
-=======
-## 🎯 Giới thiệu & Liên hệ thực tế
+---
+title: AI trong PowerPoint
+---
 
-Thứ 3 tuần này, bạn cần chuẩn bị bài thuyết trình quan trọng:
+# AI trong PowerPoint — Hướng dẫn thực hành cho giáo viên
 
-- 🎯 **Báo cáo** kết quả giảng dạy trước hội đồng (25 slides)
-- 👨‍👩‍👧‍👦 **Thuyết trình** phụ huynh về phương pháp mới (15 slides)  
-- 🎓 **Bài giảng** tương tác cho 3 lớp khác nhau (40 slides)
-- 📊 **Trình bày** dữ liệu học tập với infographics
-- ⏰ **Deadline**: Thứ 6 tuần này!
+Mục tiêu: Hướng dẫn cách dùng các tính năng AI trong PowerPoint (Designer, Presenter Coach, Ideas, Copilot) để tạo slide nhanh, chuyên nghiệp và phù hợp với học sinh.
 
-**Cách truyền thống:**
-- 🎨 Thiết kế layout thủ công: 6-8 giờ
-- 📝 Soạn nội dung từng slide: 8-10 giờ
-- 🖼️ Tìm và chỉnh sửa hình ảnh: 4-5 giờ
-- 🎭 Luyện tập thuyết trình: 3-4 giờ
-- **Tổng cộng: 21-27 giờ** → Căng thẳng và mệt mỏi! 😵
+## Tại sao nên dùng AI cho PowerPoint
+- Tiết kiệm thời gian soạn slide.
+- Tự động gợi ý layout, màu sắc và hình ảnh phù hợp.
+- Sinh speaker notes và gợi ý tương tác.
+- Tích hợp dữ liệu từ Excel để tạo biểu đồ tự động.
 
-**Với AI trong PowerPoint**: **4-5 giờ** hoàn thành tất cả với chất lượng chuyên nghiệp!
+## Thực hành nhanh (10–20 phút)
+1. Tạo slide mới với tiêu đề "Ứng dụng AI trong giảng dạy".
+2. Viết 1–2 câu mô tả nội dung bài học.
+3. Mở Designer để chọn layout phù hợp.
+4. Dùng Copilot/Ideas để chuyển đoạn mô tả thành 4–6 bullet points.
+5. Sinh speaker notes cho từng slide.
 
-Hôm nay chúng ta sẽ học cách **"biến hóa"** PowerPoint thành công cụ AI mạnh mẽ để tạo ra những bài thuyết trình ấn tượng và hiệu quả.
->>>>>>> 55c34c8bd998785e565e9ab071ea0fbe191a628f
-
-## 1. AI giúp gì cho slide
-- Gợi ý bố cục và thiết kế cho slide
-- Chuyển văn bản thành các bullet point ngắn gọn
-- Tạo ghi chú giảng dạy tự động
-- Đề xuất hình ảnh minh họa và màu sắc phù hợp
-
-<<<<<<< HEAD
-## 2. Bắt đầu nhanh — ví dụ 10 phút
-1. Mở PowerPoint, tạo slide mới với tiêu đề: "Ứng dụng AI trong giảng dạy".
-2. Viết một đoạn mô tả ngắn (1-2 câu).
-3. Chọn tính năng gợi ý thiết kế (Designer) để xem các bố cục đề xuất.
-4. Chọn bố cục phù hợp, sau đó dùng trợ lý để chuyển đoạn mô tả thành 5 bullet points.
-
-> Ghi chú: Tên chức năng có thể khác tùy phiên bản; tìm mục có chữ "Designer" hoặc "Gợi ý thiết kế".
-
-## 3. Tạo ghi chú giảng dạy tự động
-- Sau khi có nội dung slide, dùng tính năng tạo ghi chú (Notes) hoặc trợ lý để sinh "Speaker Notes" — gợi ý lời giảng cho từng slide.
-
-## 4. Mẹo thiết kế nhanh
+## Mẹo thiết kế nhanh
 - Mỗi slide chỉ 1 ý chính.
-- Mỗi dòng không quá 6-7 từ nếu có thể.
-- Dùng hình ảnh đơn giản, tránh quá nhiều chữ.
+- Mỗi dòng không quá 6–8 từ.
+- Dùng hình ảnh đơn giản và tương phản màu tốt cho projector.
 
-## 5. Mẫu prompt tiếng Việt cho trợ lý
+## Các tính năng chính
+- Designer: đề xuất layout và hình ảnh.
+- Presenter Coach: huấn luyện giọng nói, tốc độ, và phát hiện filler words.
+- Ideas: gợi ý nội dung và visual từ dữ liệu.
+- Copilot / ChatGPT: tạo outline, speaker notes, quiz nhanh.
+
+## Mẫu prompt tiếng Việt
 "Từ tiêu đề 'Ứng dụng AI trong giảng dạy', tạo 6 slide: Mục tiêu, Định nghĩa, 3 ví dụ ứng dụng, Thực hành, Tài nguyên."
 
-## 6. Bài tập thực hành
-1. Tạo bài thuyết trình 6 slide cho 1 bài học nhỏ.
-2. Dùng Designer để chọn bố cục và tạo ghi chú giảng dạy.
-3. Xuất thành PDF hoặc video để chia sẻ với học sinh.
+## Bài tập thực hành
+1. Tạo bài thuyết trình 6 slide cho một bài học.
+2. Dùng Designer để chọn bố cục, sau đó sinh speaker notes.
+3. Xuất PDF hoặc video để chia sẻ với học sinh.
 
 ---
-Nếu muốn, tôi có thể tạo mẫu slide (file .pptx) hoặc hướng dẫn từng bước kèm ảnh màn hình theo phiên bản PowerPoint bạn đang dùng.
-=======
-Sau bài học này, bạn sẽ có thể:
-- ✨ Sử dụng Designer AI để tạo slide chuyên nghiệp trong vài phút
-- 🎤 Tận dụng Presenter Coach để hoàn thiện kỹ năng thuyết trình
-- 🤖 Tạo nội dung slide tự động với AI và ChatGPT
-- 📄 Chuyển đổi văn bản thành slide thông minh một cách nhanh chóng
-- 🎨 Thiết kế infographics và biểu đồ tương tác với AI
-- 🔊 Tích hợp voice-over và animations thông minh
-- 📱 Tạo presentations responsive cho mọi thiết bị
 
-## 🤖 Tổng quan AI trong Microsoft PowerPoint
+Nếu muốn, tôi có thể tạo mẫu `.pptx` theo yêu cầu của bạn.
 
-### 📊 Các tính năng AI chính
-
-Microsoft đã tích hợp hệ sinh thái AI mạnh mẽ vào PowerPoint để hỗ trợ toàn diện việc tạo presentation:
-
-| Tính năng | Chức năng chính | Phù hợp cho | Độ khó | Tiết kiệm thời gian |
-|-----------|-----------------|-------------|--------|-------------------|
-| **Designer** | Thiết kế slide tự động | Tất cả bài thuyết trình | Dễ | 80-90% |
-| **Presenter Coach** | Phân tích kỹ năng thuyết trình | Luyện tập và cải thiện | Dễ | 70% |
-| **Ideas** | Đề xuất nội dung và cấu trúc | Brainstorming, outline | TB | 60% |
-| **Copilot** | AI assistant toàn diện | Mọi khía cạnh presentation | TB | 85% |
-| **AI Image Creator** | Tạo hình ảnh từ prompt | Visual content | TB | 90% |
-| **QuickStarter** | Tạo outline từ topic | Bắt đầu nhanh | Dễ | 95% |
-
-### 🚀 Yêu cầu hệ thống và setup
-
-**✅ Để sử dụng AI trong PowerPoint:**
-- **Microsoft 365 subscription** (Education licenses thường miễn phí)
-- **PowerPoint for Web** hoặc **PowerPoint Desktop** (phiên bản 2023 trở lên)
-- **Kết nối internet** ổn định (tối thiểu 10 Mbps)
-- **Tài khoản Microsoft** được kích hoạt
-- **RAM:** Tối thiểu 4GB, khuyến nghị 8GB+
-- **Storage:** 500MB trống cho cache AI
-
-**💡 Kiểm tra nhanh khả năng AI:**
-1. Mở PowerPoint → Tạo slide mới
-2. Thêm tiêu đề → Tìm "Designer" panel bên phải
-3. Nếu có Designer + Ideas = ✅ Sẵn sàng AI!
-4. Nếu không có = ❌ Cần cập nhật hoặc đăng ký Office 365
-
-## 🎨 Designer AI - Thiết kế thông minh
-
-### 🎯 Designer AI có thể làm gì?
-
-**Designer** là brain của PowerPoint AI, có khả năng:
-- 🎨 **Phân tích nội dung** và đề xuất layout tối ưu
-- 🌈 **Tự động chọn color scheme** phù hợp với chủ đề
-- 📐 **Căn chỉnh elements** theo nguyên tắc thiết kế chuyên nghiệp
-- 🖼️ **Đề xuất hình ảnh** từ Microsoft's image library
-- 📊 **Tạo infographics** từ text thô
-- 🔄 **Maintain consistency** across all slides
-
-### 📚 Hướng dẫn sử dụng Designer từng bước
-
-#### **Bước 1: Kích hoạt Designer (2 phút)**
-
-1. **Tạo slide mới** hoặc mở presentation có sẵn
-2. **Thêm nội dung cơ bản:**
-   ```
-   - Tiêu đề slide
-   - 3-5 bullet points chính
-   - Hình ảnh (nếu có)
-   ```
-3. **Designer panel** sẽ tự động xuất hiện bên phải sau 5-10 giây
-4. **Nếu không xuất hiện:** Design tab → Designer button
-
-#### **Bước 2: Khám phá các đề xuất thiết kế (5 phút)**
-
-Designer thường đưa ra 4-8 options khác nhau:
-
-**🎨 Style Categories:**
-- **Professional:** Cho báo cáo, hội nghị chính thức
-- **Creative:** Cho bài giảng, workshop
 - **Modern:** Cho presentations đến học sinh
 - **Educational:** Tối ưu cho content giáo dục
 
@@ -1735,4 +1647,4 @@ Giờ đây bạn có thể tạo ra những presentation ấn tượng, profess
 **💪 Tiếp tục practice, experiment, và chia sẻ knowledge với đồng nghiệp để maximize impact của AI trong education!**
 
 **🔜 Bài tiếp theo:** [Tích hợp GPT Free vào Office](/chuong-5/tich-hop-gpt) - Học cách kết hợp các AI tools miễn phí để tạo ra comprehensive Office workflows!
->>>>>>> 55c34c8bd998785e565e9ab071ea0fbe191a628f
+ 
