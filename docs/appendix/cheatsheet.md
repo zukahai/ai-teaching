@@ -1,6 +1,6 @@
 # 📋 Bảng tóm tắt nhanh - AI cho Giáo viên
 
-## ⚡ Quick Start - Bắt đầu nhanh trong 15 phút
+## ⚡ Bắt đầu nhanh trong 15 phút
 
 ### 🎯 Bước 1: Tạo tài khoản (5 phút)
 ```markdown
@@ -9,33 +9,33 @@
 ✅ Google Bard: bard.google.com
 ✅ Bing Chat: bing.com/chat
 
-💡 Tip: Dùng 1 email Google cho tất cả để dễ quản lý
+💡 Mẹo: Dùng 1 email Google cho tất cả để dễ quản lý
 ```
 
-### 🚀 Bước 2: Test đầu tiên (5 phút)
+### 🚀 Bước 2: Thử nghiệm đầu tiên (5 phút)
 ```markdown
-ChatGPT prompt đầu tiên:
+ChatGPT lệnh đầu tiên:
 "Tôi là giáo viên [môn học] lớp [X]. Hãy tạo 5 câu hỏi trắc nghiệm về [chủ đề] với đáp án và giải thích."
 
-Canva AI prompt:
-"Educational poster about [topic], colorful, suitable for grade [X] students"
+Canva AI lệnh:
+"Poster giáo dục về [chủ đề], đầy màu sắc, phù hợp cho học sinh lớp [X]"
 ```
 
 ### 🎓 Bước 3: Áp dụng ngay (5 phút)
 ```markdown
 - Dùng kết quả ChatGPT cho tiết học hôm nay
-- Download hình Canva làm visual aid
-- Share với đồng nghiệp để lấy feedback
+- Tải hình Canva làm tài liệu hỗ trợ hình ảnh
+- Chia sẻ với đồng nghiệp để lấy phản hồi
 ```
 
-## 📝 Templates Prompt thường dùng
+## 📝 Mẫu lệnh thường dùng
 
 ### 🎯 Soạn giáo án nhanh
 ```markdown
-Template chuẩn:
+Mẫu chuẩn:
 "Tôi là giáo viên [MÔN] lớp [LỚP]. Tạo giáo án 45 phút cho bài '[TÊN BÀI]' bao gồm:
 - Mục tiêu học tập rõ ràng
-- Timeline chi tiết từng hoạt động  
+- Thời gian chi tiết từng hoạt động  
 - 3 ví dụ thực tế
 - Hoạt động nhóm 10 phút
 - 5 câu hỏi kiểm tra
@@ -61,13 +61,13 @@ Tự luận:
 
 ### 🎨 Tạo hình ảnh giáo dục
 ```markdown
-Template Canva AI:
-"[Chủ đề], educational illustration, [style], suitable for grade [X] students, Vietnamese context"
+Mẫu Canva AI:
+"[Chủ đề], minh họa giáo dục, [phong cách], phù hợp cho học sinh lớp [X], bối cảnh Việt Nam"
 
 Ví dụ:
-- "Solar system, educational illustration, cartoon style, suitable for grade 5 students"
-- "Vietnam history, traditional art style, suitable for grade 9 students"  
-- "Math geometry, clean diagram style, suitable for grade 7 students"
+- "Hệ mặt trời, minh họa giáo dục, phong cách hoạt hình, phù hợp cho học sinh lớp 5"
+- "Lịch sử Việt Nam, phong cách nghệ thuật truyền thống, phù hợp cho học sinh lớp 9"  
+- "Hình học toán học, phong cách sơ đồ sạch sẽ, phù hợp cho học sinh lớp 7"
 ```
 
 ### 📋 Đánh giá học sinh
@@ -78,7 +78,7 @@ Nhận xét cá nhân:
 - Điểm cần cải thiện
 - Gợi ý phương pháp học  
 - Lời khuyến khích
-Tone: tích cực, xây dựng, phù hợp tuổi [X]."
+Giọng điệu: tích cực, xây dựng, phù hợp tuổi [X]."
 
 Báo cáo phụ huynh:
 "Viết báo cáo tháng cho phụ huynh học sinh [tên/đặc điểm] bao gồm kết quả học tập, hành vi, đề xuất hỗ trợ."
@@ -88,41 +88,41 @@ Báo cáo phụ huynh:
 
 | Công cụ | Miễn phí | Tốt nhất cho | Giới hạn | Rating |
 |---------|----------|-------------|----------|---------|
-| **ChatGPT** | ✅ GPT-4o mini | Text, giáo án, Q&A | 40 msg/3h | ⭐⭐⭐⭐⭐ |
-| **Google Bard** | ✅ Unlimited | Research, fact-check | Không | ⭐⭐⭐⭐ |
-| **Bing Chat** | ✅ Unlimited | Tìm kiếm + AI | Không | ⭐⭐⭐⭐ |
-| **Claude** | ✅ Limited | Văn bản dài, phân tích | 5 msg/h | ⭐⭐⭐⭐ |
+| **ChatGPT** | ✅ GPT-4o mini | Văn bản, giáo án, Hỏi đáp | 40 tin nhắn/3h | ⭐⭐⭐⭐⭐ |
+| **Google Bard** | ✅ Không giới hạn | Nghiên cứu, kiểm tra sự thật | Không | ⭐⭐⭐⭐ |
+| **Bing Chat** | ✅ Không giới hạn | Tìm kiếm + AI | Không | ⭐⭐⭐⭐ |
+| **Claude** | ✅ Có giới hạn | Văn bản dài, phân tích | 5 tin nhắn/h | ⭐⭐⭐⭐ |
 | **Canva AI** | ✅ 25/tháng | Hình ảnh giáo dục | 25 ảnh | ⭐⭐⭐⭐⭐ |
-| **Leonardo AI** | ✅ 150/ngày | Hình ảnh chất lượng cao | 150 credits | ⭐⭐⭐⭐ |
-| **Gamma** | ✅ 400 credits | Slides tự động | 400/tháng | ⭐⭐⭐⭐ |
-| **InVideo AI** | ✅ 10 phút | Video giáo dục | 10 min/tháng | ⭐⭐⭐ |
+| **Leonardo AI** | ✅ 150/ngày | Hình ảnh chất lượng cao | 150 tín dụng | ⭐⭐⭐⭐ |
+| **Gamma** | ✅ 400 tín dụng | Slides tự động | 400/tháng | ⭐⭐⭐⭐ |
+| **InVideo AI** | ✅ 10 phút | Video giáo dục | 10 phút/tháng | ⭐⭐⭐ |
 
-## ⚡ Shortcuts và Hotkeys
+## ⚡ Phím tắt và Hotkeys
 
 ### 💻 ChatGPT
 ```markdown
-Ctrl + Enter: Gửi message
-↑ ↓: Duyệt history
-Ctrl + /: Tìm trong conversation
-Ctrl + Shift + O: New chat
+Ctrl + Enter: Gửi tin nhắn
+↑ ↓: Duyệt lịch sử
+Ctrl + /: Tìm trong cuộc trò chuyện
+Ctrl + Shift + O: Cuộc trò chuyện mới
 ```
 
 ### 🎨 Canva
 ```markdown
-Ctrl + D: Duplicate element  
-Ctrl + G: Group elements
-Ctrl + Shift + G: Ungroup
-T: Text tool
-R: Rectangle tool
-C: Circle tool
+Ctrl + D: Nhân đôi phần tử  
+Ctrl + G: Nhóm các phần tử
+Ctrl + Shift + G: Bỏ nhóm
+T: Công cụ văn bản
+R: Công cụ hình chữ nhật
+C: Công cụ hình tròn
 ```
 
 ### 📊 Excel với AI
 ```markdown
 Ctrl + E: Flash Fill
 Alt + N + Z: Ideas panel
-Ctrl + T: Tạo Table
-F4: Repeat last action
+Ctrl + T: Tạo Bảng
+F4: Lặp lại thao tác cuối
 ```
 
 ## 🎯 Quy trình làm việc nhanh
@@ -131,9 +131,9 @@ F4: Repeat last action
 
 ```mermaid
 flowchart LR
-    A["1. ChatGPT<br/>Tạo outline<br/>(5 phút)"] --> B["2. ChatGPT<br/>Chi tiết nội dung<br/>(10 phút)"]
-    B --> C["3. Canva AI<br/>Tạo visuals<br/>(10 phút)"]  
-    C --> D["4. Review<br/>& Adjust<br/>(5 phút)"]
+    A["1. ChatGPT<br/>Tạo dàn ý<br/>(5 phút)"] --> B["2. ChatGPT<br/>Chi tiết nội dung<br/>(10 phút)"]
+    B --> C["3. Canva AI<br/>Tạo hình ảnh<br/>(10 phút)"]  
+    C --> D["4. Xem xét<br/>& Điều chỉnh<br/>(5 phút)"]
     
     style A fill:#e3f2fd
     style B fill:#f3e5f5  
@@ -145,9 +145,9 @@ flowchart LR
 
 ```mermaid
 flowchart LR
-    A["1. Excel<br/>Import data<br/>(5 phút)"] --> B["2. Ideas<br/>AI analysis<br/>(5 phút)"]
-    B --> C["3. ChatGPT<br/>Interpret results<br/>(5 phút)"]
-    C --> D["4. Canva<br/>Visualize report<br/>(5 phút)"]
+    A["1. Excel<br/>Nhập dữ liệu<br/>(5 phút)"] --> B["2. Ideas<br/>Phân tích AI<br/>(5 phút)"]
+    B --> C["3. ChatGPT<br/>Giải thích kết quả<br/>(5 phút)"]
+    C --> D["4. Canva<br/>Hình ảnh hóa báo cáo<br/>(5 phút)"]
     
     style A fill:#e1f5fe
     style B fill:#f1f8e9
@@ -155,41 +155,41 @@ flowchart LR
     style D fill:#fff8e1
 ```
 
-## 🚨 Troubleshooting nhanh
+## 🚨 Khắc phục sự cố nhanh
 
 ### ❌ ChatGPT không hoạt động
 ```markdown
-✅ Check internet connection
-✅ Refresh trang web  
-✅ Thử incognito mode
+✅ Kiểm tra kết nối internet
+✅ Làm mới trang web  
+✅ Thử chế độ ẩn danh
 ✅ Dùng Bing Chat thay thế
-✅ Clear browser cache
+✅ Xóa bộ nhớ đệm trình duyệt
 ```
 
 ### ❌ Kết quả AI không như mong muốn
 ```markdown
-✅ Viết prompt chi tiết hơn
-✅ Thêm context và examples
-✅ Chia nhỏ yêu cầu thành nhiều steps
-✅ Thử tool AI khác
-✅ Feedback và refine
+✅ Viết lệnh chi tiết hơn
+✅ Thêm bối cảnh và ví dụ
+✅ Chia nhỏ yêu cầu thành nhiều bước
+✅ Thử công cụ AI khác
+✅ Phản hồi và tinh chỉnh
 ```
 
 ### ❌ Hình ảnh AI không phù hợp
 ```markdown
-✅ Thêm "educational", "suitable for grade X"
-✅ Specify style: cartoon, realistic, diagram
-✅ Mention "Vietnamese context" nếu cần
-✅ Thử different prompts
-✅ Dùng multiple tools
+✅ Thêm "giáo dục", "phù hợp cho lớp X"
+✅ Chỉ định phong cách: hoạt hình, thực tế, sơ đồ
+✅ Đề cập "bối cảnh Việt Nam" nếu cần
+✅ Thử các lệnh khác nhau
+✅ Dùng nhiều công cụ
 ```
 
-## 📊 Metrics theo dõi hiệu quả
+## 📊 Chỉ số theo dõi hiệu quả
 
 ### ⏰ Tiết kiệm thời gian
 ```markdown
 📝 Soạn giáo án: Trước [X] giờ → Sau [Y] giờ
-🎨 Tạo visuals: Trước [X] giờ → Sau [Y] giờ  
+🎨 Tạo hình ảnh: Trước [X] giờ → Sau [Y] giờ  
 📊 Phân tích dữ liệu: Trước [X] giờ → Sau [Y] giờ
 📋 Chấm bài: Trước [X] giờ → Sau [Y] giờ
 

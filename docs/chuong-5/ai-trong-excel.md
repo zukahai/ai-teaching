@@ -14,7 +14,7 @@ Cuối tháng, bạn cần nộp báo cáo tổng kết kết quả học tập 
 - 🧮 Tính toán thủ công: 8-10 giờ
 - 📊 Vẽ biểu đồ từng cái: 4-5 giờ  
 - ✍️ Viết nhận xét: 175 × 5 phút = 14+ giờ
-- 📝 Format báo cáo: 3-4 giờ
+- 📝 Định dạng báo cáo: 3-4 giờ
 - **Tổng cộng: 29-33 giờ** → Thức đêm 4 ngày liên tiếp! 😵
 
 **Với AI trong Excel**: **2-3 giờ** hoàn thành tất cả với chất lượng chuyên nghiệp!
@@ -32,8 +32,8 @@ Microsoft đã tích hợp AI vào Excel thông qua nhiều tính năng mạnh m
 | **Ideas (Insights)** | Phân tích dữ liệu tự động | Phân tích điểm số, xu hướng | Dễ |
 | **Flash Fill** | Xử lý dữ liệu thông minh | Chuẩn hóa tên, mã số | Dễ |
 | **Dynamic Arrays** | Công thức động | Tính toán phức tạp | TB |
-| **Copilot in Excel** | AI assistant toàn diện | Mọi task trong Excel | TB |
-| **Power Query AI** | Import và transform data | Kết hợp nhiều nguồn | Khó |
+| **Copilot in Excel** | AI trợ lý toàn diện | Mọi nhiệm vụ trong Excel | TB |
+| **Power Query AI** | Nhập và chuyển đổi dữ liệu | Kết hợp nhiều nguồn | Khó |
 
 ### 🚀 Yêu cầu hệ thống
 
@@ -45,7 +45,7 @@ Microsoft đã tích hợp AI vào Excel thông qua nhiều tính năng mạnh m
 
 **💡 Kiểm tra nhanh:** Mở Excel → Tìm tab "Insert" → Có thấy "Ideas" không?
 - ✅ Có: Sẵn sàng sử dụng!
-- ❌ Không có: Cần update Excel hoặc đăng ký Microsoft 365
+- ❌ Không có: Cần cập nhật Excel hoặc đăng ký Microsoft 365
 
 ## 🧠 Ideas (Insights) - Trí tuệ nhân tạo phân tích
 
@@ -73,21 +73,21 @@ Lê Văn C     | 9.0  | 9.5 | 8.5 | 8.0| 9.0 | 9B
 **Lưu ý quan trọng:**
 - ✅ **Header row**: Dòng đầu phải là tên cột
 - ✅ **Dữ liệu sạch**: Không có ô trống giữa
-- ✅ **Format nhất quán**: Cùng loại dữ liệu trong 1 cột
-- ❌ **Tránh merged cells**: Ideas không đọc được
+- ✅ **Định dạng nhất quán**: Cùng loại dữ liệu trong 1 cột
+- ❌ **Tránh ô ghép**: Ideas không đọc được
 
 #### **Bước 2: Kích hoạt Ideas (1 phút)**
 
-1. **Chọn toàn bộ dữ liệu** (Ctrl+A hoặc click kéo)
-2. **Vào tab Insert** → **Click "Ideas"**
+1. **Chọn toàn bộ dữ liệu** (Ctrl+A hoặc nhấp kéo)
+2. **Vào tab Insert** → **Nhấp "Ideas"**
 3. **Đợi 10-30 giây** AI phân tích
-4. **Panel Ideas** xuất hiện bên phải với suggestions
+4. **Bảng Ideas** xuất hiện bên phải với gợi ý
 
 #### **Bước 3: Khám phá AI Insights (10 phút)**
 
 Ideas sẽ đưa ra các loại phân tích:
 
-**📈 Xu hướng (Trends):**
+**📈 Xu hướng:**
 ```
 "Điểm Toán có xu hướng tăng từ đầu năm đến nay"
 "Lớp 9A có sự cải thiện đáng kể ở môn Anh"
@@ -147,19 +147,19 @@ Ideas đề xuất 8 biểu đồ khác nhau:
 4. **Box plot**: Phân bố điểm số từng môn
 5. **Histogram**: Tần suất phân bố điểm
 
-**💡 Chỉ cần 1 click để chèn biểu đồ vào worksheet!**
+**💡 Chỉ cần 1 nhấp chuột để chèn biểu đồ vào bảng tính!**
 
 ## ⚡ Flash Fill - Xử lý dữ liệu thông minh
 
 ### 🎯 Flash Fill có thể làm gì?
 
-Flash Fill sử dụng AI để "học" pattern từ ví dụ của bạn và tự động điền phần còn lại:
+Flash Fill sử dụng AI để "học" mẫu từ ví dụ của bạn và tự động điền phần còn lại:
 
 **📝 Các tình huống thường gặp:**
 - Tách họ và tên từ cột "Họ tên đầy đủ"
-- Chuẩn hóa format số điện thoại phụ huynh
+- Chuẩn hóa định dạng số điện thoại phụ huynh
 - Tạo mã số học sinh từ tên và lớp
-- Trích xuất thông tin từ text phức tạp
+- Trích xuất thông tin từ văn bản phức tạp
 
 ### 🚀 Hướng dẫn Flash Fill chi tiết
 
@@ -208,7 +208,7 @@ Họ tên: Nguyễn Văn An, Lớp: 9A
 1. **Cột D2**, gõ: `NVA_9A` (ví dụ đầu tiên)
 2. **Cột D3**, gõ: `TTB_9A` (ví dụ thứ hai)  
 3. **Chọn D2:D3**, nhấn **Ctrl+E**
-4. **AI hiểu pattern** và tự động tạo mã cho tất cả!
+4. **AI hiểu mẫu** và tự động tạo mã cho tất cả!
 
 #### **Ví dụ 3: Chuẩn hóa số điện thoại**
 
@@ -226,14 +226,14 @@ Họ tên: Nguyễn Văn An, Lớp: 9A
 
 **Thực hiện:**
 1. **Cột mới**, gõ 2-3 ví dụ chuẩn hóa
-2. **Flash Fill** sẽ format tự động phần còn lại
+2. **Flash Fill** sẽ định dạng tự động phần còn lại
 3. **Kiểm tra** và điều chỉnh nếu cần
 
 ### 💡 Tips sử dụng Flash Fill hiệu quả
 
 **✅ Để Flash Fill hoạt động tốt:**
 - Đưa ra **2-3 ví dụ** rõ ràng
-- **Pattern phải consistent**
+- **Mẫu phải nhất quán**
 - **Dữ liệu gốc** không quá phức tạp
 
 **❌ Flash Fill không hoạt động khi:**

@@ -13,7 +13,7 @@ Chào mừng bạn đến với khóa học **"Ứng dụng AI vào Giảng dạ
 
 **🤨 Đã nghe về AI nhưng chưa biết bắt đầu từ đâu:**
 - "Tôi đã thử ChatGPT một vài lần nhưng kết quả không như mong đợi"
-- "Có quá nhiều tools, không biết nên dùng cái nào"
+- "Có quá nhiều công cụ, không biết nên dùng cái nào"
 - "Làm sao để AI thực sự giúp ích cho việc giảng dạy?"
 
 **😫 Đang quá tải với công việc:**
@@ -30,7 +30,7 @@ Chào mừng bạn đến với khóa học **"Ứng dụng AI vào Giảng dạ
 **🇻🇳 100% Tiếng Việt:**
 - Tất cả nội dung, ví dụ đều bằng tiếng Việt
 - Phù hợp với chương trình giáo dục Việt Nam
-- Case studies từ các trường học thực tế ở VN
+- Nghiên cứu điển hình từ các trường học thực tế ở VN
 
 **🎯 Từ số 0 đến chuyên gia:**
 - Không cần kiến thức AI hoặc lập trình trước đó
@@ -38,7 +38,7 @@ Chào mừng bạn đến với khóa học **"Ứng dụng AI vào Giảng dạ
 - Thực hành từng bước với hướng dẫn chi tiết
 
 **💰 Tập trung công cụ miễn phí:**
-- 90% tools được dạy đều miễn phí hoàn toàn
+- 90% công cụ được dạy đều miễn phí hoàn toàn
 - Không cần đầu tư chi phí để bắt đầu
 - Phù hợp với ngân sách giáo viên Việt Nam
 
@@ -70,7 +70,7 @@ gantt
     section Nền tảng (Tuần 1-2)
     Giới thiệu AI        :foundation1, 2024-01-01, 3d
     Hiểu AI cơ bản       :foundation2, after foundation1, 4d
-    Tools đầu tiên       :foundation3, after foundation2, 7d
+    Công cụ đầu tiên       :foundation3, after foundation2, 7d
     
     section Thực hành (Tuần 3-4)
     ChatGPT nâng cao     :practice1, after foundation3, 5d
@@ -83,7 +83,7 @@ gantt
     
     section Chuyên sâu (Tuần 7-8)
     Quản lý lớp học     :advanced1, after apply2, 7d
-    Case Studies        :advanced2, after advanced1, 7d
+    Nghiên cứu điển hình        :advanced2, after advanced1, 7d
     
     section Hoàn thiện (Tuần 9)
     Đạo đức AI          :final1, after advanced2, 3d
@@ -108,10 +108,10 @@ gantt
 
 #### 🛠️ **Giai đoạn 2: Làm chủ công cụ (Tuần 3-4)**
 
-**Mục tiêu:** Thành thạo các AI tools cần thiết
+**Mục tiêu:** Thành thạo các công cụ AI cần thiết
 
 **🔧 Công cụ được học:**
-- **ChatGPT**: Prompt engineering, techniques nâng cao
+- **ChatGPT**: Kỹ thuật viết lệnh, kỹ thuật nâng cao
 - **Canva AI**: Tạo hình ảnh giáo dục chuyên nghiệp
 - **InVideo AI**: Tạo video bài giảng sinh động
 - **Gamma**: Thiết kế slide tự động
@@ -137,7 +137,7 @@ gantt
 
 #### 🚀 **Giai đoạn 4: Nâng cao và quản lý (Tuần 7-8)**
 
-**Mục tiêu:** Sử dụng AI cho quản lý lớp học và projects lớn
+**Mục tiêu:** Sử dụng AI cho quản lý lớp học và dự án lớn
 
 **🏫 Kỹ năng nâng cao:**
 - **Chatbot giáo dục**: Hỗ trợ học sinh 24/7
@@ -149,14 +149,14 @@ gantt
 - Phân tích và cải thiện hiệu quả giảng dạy
 - Quản lý lớp học thông minh với AI
 
-#### 🎓 **Giai đoạn 5: Chuyên gia AI Education (Tuần 9)**
+#### 🎓 **Giai đoạn 5: Chuyên gia Giáo dục AI (Tuần 9)**
 
-**Mục tiêu:** Trở thành AI Education Leader
+**Mục tiêu:** Trở thành Lãnh đạo Giáo dục AI
 
-**⚖️ Kỹ năng leadership:**
+**⚖️ Kỹ năng lãnh đạo:**
 - **Đạo đức AI**: Sử dụng AI có trách nhiệm
 - **Chia sẻ kiến thức**: Đào tạo đồng nghiệp
-- **Định hướng tương lai**: Xây dựng strategy dài hạn
+- **Định hướng tương lai**: Xây dựng chiến lược dài hạn
 
 **✅ Sau giai đoạn này bạn có thể:**
 - Dẫn dắt việc áp dụng AI trong trường
@@ -175,7 +175,7 @@ gantt
 **📅 Thời gian:**
 - 2-3 giờ học lý thuyết mỗi ngày
 - 1-2 giờ thực hành mỗi ngày
-- Cuối tuần làm project tổng hợp
+- Cuối tuần làm dự án tổng hợp
 
 **🎯 Kết quả:** Thành thạo cơ bản trong 3 tuần
 
@@ -213,24 +213,24 @@ gantt
 
 **✅ Thiết bị cần có:**
 - Máy tính hoặc laptop (từ 2015 trở lên)
-- Hoặc tablet với bàn phím (iPad, Android tablet)
+- Hoặc máy tính bảng với bàn phím (iPad, máy tính bảng Android)
 - Smartphone để học mọi lúc mọi nơi
 
 **🌐 Kết nối internet:**
 - Tốc độ tối thiểu: 5 Mbps
 - Ổn định trong 2-3 giờ liên tục
-- Có thể dùng 4G di động backup
+- Có thể dùng 4G di động dự phòng
 
 **📱 Phần mềm cần cài:**
 - Trình duyệt mới nhất (Chrome, Safari, Edge)
 - Ứng dụng ghi chú (Notion, Google Docs, OneNote)
-- Zoom hoặc Teams (cho workshop online)
+- Zoom hoặc Teams (cho hội thảo trực tuyến)
 
 ### 🧠 Về mặt tâm lý
 
 **💪 Chuẩn bị tinh thần:**
 - **Tò mò và khám phá**: AI đang phát triển nhanh, có nhiều điều mới mẻ
-- **Kiên nhẫn**: Một số concept cần thời gian để thấm
+- **Kiên nhẫn**: Một số khái niệm cần thời gian để thấm
 - **Thực hành**: Chỉ đọc lý thuyết thôi không đủ, phải làm thật
 
 **🚫 Tránh những suy nghĩ này:**
@@ -241,10 +241,10 @@ gantt
 ### 📚 Tài khoản cần tạo trước
 
 **🆓 Miễn phí (bắt buộc):**
-1. **Google Account** - để truy cập hầu hết tools
+1. **Tài khoản Google** - để truy cập hầu hết công cụ
 2. **ChatGPT** (chat.openai.com) - AI chính của khóa học
 3. **Canva** (canva.com) - tạo hình ảnh giáo dục
-4. **Bing Chat** (bing.com) - AI backup cho ChatGPT
+4. **Bing Chat** (bing.com) - AI dự phòng cho ChatGPT
 
 **💡 Khuyến khích tạo:**
 5. **Claude AI** (claude.ai) - AI thay thế tốt
@@ -257,59 +257,59 @@ gantt
 
 ### 👥 Cộng đồng học tập
 
-**📱 Facebook Group "AI cho Giáo viên VN":**
+**📱 Nhóm Facebook "AI cho Giáo viên VN":**
 - 5000+ thành viên là giáo viên Việt Nam
 - Chia sẻ kinh nghiệm, troubleshoot
-- Hỏi đáp nhanh, support 24/7
-- Weekly challenges và contests
+- Hỏi đáp nhanh, hỗ trợ 24/7
+- Thử thách hàng tuần và cuộc thi
 
-**💬 Discord Server:**
-- Chat realtime với instructors
-- Voice channels cho workshop
-- Screen sharing để hỗ trợ trực tiếp
+**💬 Máy chủ Discord:**
+- Trò chuyện thời gian thực với giảng viên
+- Kênh thoại cho hội thảo
+- Chia sẻ màn hình để hỗ trợ trực tiếp
 
-**📧 Email Support:**
+**📧 Hỗ trợ qua Email:**
 - support@ai-teaching.vn
 - Phản hồi trong 24 giờ
-- Hỗ trợ technical issues
+- Hỗ trợ các vấn đề kỹ thuật
 
-### 🏆 Chứng chỉ và Recognition
+### 🏆 Chứng chỉ và Công nhận
 
-**🥇 Certificate of Completion:**
-- Điều kiện: Hoàn thành 80% bài học + 1 final project
-- Được ký bởi: AI Education Institute Vietnam
+**🥇 Chứng chỉ Hoàn thành:**
+- Điều kiện: Hoàn thành 80% bài học + 1 dự án cuối khóa
+- Được ký bởi: Viện Giáo dục AI Việt Nam
 - Có thể in và treo trong lớp học
 
-**🌟 AI Teaching Specialist Badge:**
-- Điều kiện: Hoàn thành + pass assessment test
-- Recognition trong cộng đồng
-- Priority support cho advanced features
+**🌟 Huy hiệu Chuyên gia Giảng dạy AI:**
+- Điều kiện: Hoàn thành + vượt qua bài kiểm tra đánh giá
+- Công nhận trong cộng đồng
+- Ưu tiên hỗ trợ cho các tính năng nâng cao
 
-**🚀 Train-the-Trainer Opportunity:**
+**🚀 Cơ hội Đào tạo Huấn luyện viên:**
 - Cơ hội trở thành instructor
 - Đào tạo giáo viên khác trong khu vực
-- Thu nhập thêm từ việc training
+- Thu nhập thêm từ việc đào tạo
 
 ## 📊 Đánh giá và theo dõi tiến độ
 
-### 📈 Metrics cá nhân
+### 📈 Chỉ số cá nhân
 
-**⏱️ Time Tracking:**
+**⏱️ Theo dõi Thời gian:**
 ```markdown
-Weekly Time Log:
+Nhật ký Thời gian Hàng tuần:
 - Thời gian soạn giáo án: Trước [X] giờ → Sau [Y] giờ
 - Thời gian tạo tài liệu: Trước [X] giờ → Sau [Y] giờ  
 - Thời gian chấm bài: Trước [X] giờ → Sau [Y] giờ
 - Tổng tiết kiệm: [X-Y] giờ/tuần
 ```
 
-**🎯 Quality Assessment:**
-- Student engagement scores (tự đánh giá)
-- Lesson quality ratings (từ đồng nghiệp)
-- Parent feedback improvements
-- Personal satisfaction levels
+**🎯 Đánh giá Chất lượng:**
+- Điểm tương tác học sinh (tự đánh giá)
+- Xếp hạng chất lượng bài học (từ đồng nghiệp)
+- Cải thiện phản hồi phụ huynh
+- Mức độ hài lòng cá nhân
 
-**💰 ROI Calculation:**
+**💰 Tính toán ROI:**
 ```
 Thời gian tiết kiệm: [X] giờ/tuần
 Giá trị thời gian: [X] × [lương giờ] = [Y] VNĐ/tuần
@@ -317,67 +317,67 @@ Chi phí khóa học: [Z] VNĐ
 Thời gian hoàn vốn: [Z/Y] tuần
 ```
 
-### 🏅 Achievement System
+### 🏅 Hệ thống Thành tích
 
-**🎯 Weekly Milestones:**
-- Week 1: First successful ChatGPT lesson plan
-- Week 2: Create educational image gallery
-- Week 3: Complete automated presentation
-- Week 4: Design assessment with AI
-- Week 5: Implement AI classroom management
-- Week 6: Train a colleague in AI basics
+**🎯 Cột mốc Hàng tuần:**
+- Tuần 1: Kế hoạch bài học ChatGPT đầu tiên thành công
+- Tuần 2: Tạo thư viện hình ảnh giáo dục
+- Tuần 3: Hoàn thành bài thuyết trình tự động
+- Tuần 4: Thiết kế đánh giá với AI
+- Tuần 5: Thực hiện quản lý lớp học AI
+- Tuần 6: Đào tạo một đồng nghiệp về cơ bản AI
 
-**🏆 Monthly Challenges:**
-- "Most Creative AI Use" contest
-- "Biggest Time Saver" achievement
-- "Student Engagement Boost" award
-- "Peer Helper" recognition
+**🏆 Thử thách Hàng tháng:**
+- Cuộc thi "Sử dụng AI Sáng tạo nhất"
+- Thành tích "Tiết kiệm Thời gian Lớn nhất"
+- Giải thưởng "Tăng cường Tương tác Học sinh"
+- Công nhận "Người Giúp đỡ Đồng nghiệp"
 
 ## 🚀 Bắt đầu ngay hôm nay!
 
 ### ✅ Checklist chuẩn bị
 
-**📝 Pre-Course Checklist:**
-- [ ] Đọc xong trang Introduction này
+**📝 Danh sách Kiểm tra Trước khóa học:**
+- [ ] Đọc xong trang Giới thiệu này
 - [ ] Tạo 4 tài khoản AI cơ bản (Google, ChatGPT, Canva, Bing)
-- [ ] Join Facebook Group "AI cho Giáo viên VN"
-- [ ] Chuẩn bị notebook/app ghi chú
-- [ ] Block thời gian học trong calendar
+- [ ] Tham gia Nhóm Facebook "AI cho Giáo viên VN"
+- [ ] Chuẩn bị sổ ghi chép/ứng dụng ghi chú
+- [ ] Chặn thời gian học trong lịch
 - [ ] Thông báo với gia đình về kế hoạch học
 
-**🎯 First Day Action Plan:**
+**🎯 Kế hoạch Hành động Ngày đầu:**
 1. **30 phút đầu**: Đọc Chương 1.1 - Mục tiêu học tập
 2. **30 phút tiếp**: Thực hành đăng ký ChatGPT
-3. **30 phút cuối**: Viết reflection đầu tiên về kỳ vọng
+3. **30 phút cuối**: Viết suy ngẫm đầu tiên về kỳ vọng
 
-### 💡 Tips cho người mới bắt đầu
+### 💡 Mẹo cho người mới bắt đầu
 
-**🧠 Mindset thành công:**
-- **Tư duy Growth**: "Tôi có thể học được" thay vì "Tôi không thể"
-- **Thực hành nhiều**: Mỗi ngày thử ít nhất 1 tool AI
+**🧠 Tư duy thành công:**
+- **Tư duy Phát triển**: "Tôi có thể học được" thay vì "Tôi không thể"
+- **Thực hành nhiều**: Mỗi ngày thử ít nhất 1 công cụ AI
 - **Chia sẻ học hỏi**: Không ngại hỏi và giúp đỡ người khác
-- **Kiên nhẫn**: Rome wasn't built in a day
+- **Kiên nhẫn**: Rome không xây dựng trong một ngày
 
-**⚡ Productivity hacks:**
-- **Pomodoro Technique**: 25 phút học + 5 phút nghỉ
-- **Active Learning**: Ghi chú tay thay vì chỉ đọc
-- **Immediate Application**: Thử ngay trong buổi học tiếp theo
-- **Teaching Others**: Giải thích cho đồng nghiệp để nhớ lâu
+**⚡ Mẹo năng suất:**
+- **Kỹ thuật Pomodoro**: 25 phút học + 5 phút nghỉ
+- **Học tập Tích cực**: Ghi chú tay thay vì chỉ đọc
+- **Áp dụng Ngay lập tức**: Thử ngay trong buổi học tiếp theo
+- **Giảng dạy Người khác**: Giải thích cho đồng nghiệp để nhớ lâu
 
-## 🔮 Vision cho tương lai
+## 🔮 Tầm nhìn cho tương lai
 
 ### 🌟 Sau 3 tháng, bạn sẽ:
 
 **💼 Về mặt nghề nghiệp:**
 - Trở thành "AI Champion" trong trường
 - Được đồng nghiệp tìm đến xin tư vấn
-- Có thể lead AI integration projects
-- Cơ hội thăng tiến và recognition
+- Có thể dẫn dắt các dự án tích hợp AI
+- Cơ hội thăng tiến và được công nhận
 
 **⏰ Về mặt thời gian:**
 - Tiết kiệm 10-15 giờ/tuần cho việc cá nhân
 - Hoàn thành công việc nhanh hơn, chất lượng cao hơn
-- Có time cho family, hobbies, self-improvement
+- Có thời gian cho gia đình, sở thích, cải thiện bản thân
 
 **🎓 Về mặt giảng dạy:**
 - Bài giảng sinh động, thu hút học sinh
@@ -385,19 +385,19 @@ Thời gian hoàn vốn: [Z/Y] tuần
 - Đánh giá chính xác và phản hồi kịp thời
 - Được học sinh và phụ huynh yêu quý
 
-### 🚀 Vision lớn hơn
+### 🚀 Tầm nhìn lớn hơn
 
-**🏆 Trở thành AI Education Leader:**
+**🏆 Trở thành Lãnh đạo Giáo dục AI:**
 - Đào tạo cho giáo viên khác trong tỉnh/thành
-- Speak tại conferences về AI in Education
-- Contribute vào policy making cho AI trong giáo dục
-- Có thể start own training business
+- Phát biểu tại hội nghị về AI trong Giáo dục
+- Đóng góp vào việc hoạch định chính sách cho AI trong giáo dục
+- Có thể khởi nghiệp doanh nghiệp đào tạo riêng
 
 **🌍 Tác động xã hội:**
 - Giúp hàng nghìn học sinh học tốt hơn
 - Nâng cao chất lượng giáo dục Việt Nam
-- Bridge the gap giữa technology và education
-- Inspire next generation của teachers
+- Kết nối khoảng cách giữa công nghệ và giáo dục
+- Truyền cảm hứng cho thế hệ giáo viên tiếp theo
 
 ---
 
@@ -413,10 +413,10 @@ Thời gian hoàn vốn: [Z/Y] tuần
 
 **👥 Nếu bạn muốn kết nối với cộng đồng:**
 
-**➡️ Tham gia: [Facebook Group - AI cho Giáo viên VN](https://facebook.com/groups/ai-giao-vien-vn)**
+**➡️ Tham gia: [Nhóm Facebook - AI cho Giáo viên VN](https://facebook.com/groups/ai-giao-vien-vn)**
 
 ---
 
-**🌟 Remember**: *Hành trình nghìn dặm bắt đầu bằng bước chân đầu tiên. Hôm nay là ngày tuyệt vời để bắt đầu!*
+**🌟 Hãy nhớ**: *Hành trình nghìn dặm bắt đầu bằng bước chân đầu tiên. Hôm nay là ngày tuyệt vời để bắt đầu!*
 
 **🚀 Let's make Vietnamese education amazing with AI! 🇻🇳**

@@ -12,139 +12,139 @@ Trang này tổng hợp tất cả tài nguyên hữu ích để hỗ trợ bạ
 - **Website**: [chat.openai.com](https://chat.openai.com)
 - **Miễn phí**: GPT-4o mini, 40 tin nhắn/3 giờ
 - **Trả phí**: GPT-4o và o1, $20/tháng
-- **Đặc điểm**: Hiểu tiếng Việt tốt, suitable for lesson planning
+- **Đặc điểm**: Hiểu tiếng Việt tốt, phù hợp cho việc soạn giáo án
 - **Hướng dẫn đăng ký**: 
   1. Truy cập chat.openai.com
-  2. Click "Sign up" 
+  2. Nhấp "Đăng ký" 
   3. Dùng Gmail để đăng ký (nhanh nhất)
   4. Xác thực email và bắt đầu sử dụng
 
 #### 🔥 Claude (Anthropic)
 - **Website**: [claude.ai](https://claude.ai)
-- **Miễn phí**: Claude 3.5 Sonnet, unlimited messages
-- **Ưu điểm**: Rất tốt cho phân tích văn bản dài, ethical AI
-- **Phù hợp**: Tạo curriculum, phân tích giáo án
+- **Miễn phí**: Claude 3.5 Sonnet, tin nhắn không giới hạn
+- **Ưu điểm**: Rất tốt cho phân tích văn bản dài, AI có đạo đức
+- **Phù hợp**: Tạo chương trình giảng dạy, phân tích giáo án
 
 #### 🌟 Google Gemini (Bard)
 - **Website**: [gemini.google.com](https://gemini.google.com)
 - **Miễn phí**: Hoàn toàn miễn phí
-- **Tính năng**: Tích hợp Google Search, thông tin realtime
-- **Ưu điểm**: Cập nhật thông tin mới nhất, hiểu context Việt Nam
+- **Tính năng**: Tích hợp Google Search, thông tin thời gian thực
+- **Ưu điểm**: Cập nhật thông tin mới nhất, hiểu bối cảnh Việt Nam
 
 #### 🚀 Microsoft Copilot
 - **Website**: [copilot.microsoft.com](https://copilot.microsoft.com)
-- **Miễn phí**: Dựa trên GPT-4, unlimited
-- **Tích hợp**: Edge browser, Office 365
-- **Đặc biệt**: Có thể browse internet realtime
+- **Miễn phí**: Dựa trên GPT-4, không giới hạn
+- **Tích hợp**: Trình duyệt Edge, Office 365
+- **Đặc biệt**: Có thể duyệt internet thời gian thực
 
 #### ⚡ Perplexity AI
 - **Website**: [perplexity.ai](https://perplexity.ai)
-- **Miễn phí**: 5 searches/ngày với Pro model
-- **Tính năng**: AI search engine với citations
-- **Phù hợp**: Research và fact-checking
+- **Miễn phí**: 5 tìm kiếm/ngày với mô hình Pro
+- **Tính năng**: Công cụ tìm kiếm AI với trích dẫn
+- **Phù hợp**: Nghiên cứu và kiểm tra sự thật
 
-### 🎨 AI Image Generation
+### 🎨 Tạo Hình ảnh AI
 
 #### 🎨 Canva AI (Magic Media)
 - **Website**: [canva.com](https://canva.com)
-- **Miễn phí**: 25 generations/tháng
-- **Điểm mạnh**: Dễ dùng, nhiều template giáo dục
-- **Template có sẵn**: Poster, infographic, worksheet
+- **Miễn phí**: 25 lần tạo/tháng
+- **Điểm mạnh**: Dễ dùng, nhiều mẫu giáo dục
+- **Mẫu có sẵn**: Poster, infographic, worksheet
 - **Hướng dẫn nhanh**:
-  1. Đăng ký Canva với Google account
+  1. Đăng ký Canva với tài khoản Google
   2. Chọn "Education" làm mục đích sử dụng
   3. Tìm "Magic Media" trong Apps
-  4. Nhập mô tả → Generate → Choose best result
+  4. Nhập mô tả → Tạo → Chọn kết quả tốt nhất
 
 #### 🚀 Leonardo AI
 - **Website**: [leonardo.ai](https://leonardo.ai)
-- **Miễn phí**: 150 credits/ngày
-- **Chất lượng**: Rất cao, professional-grade
-- **Styles**: Photorealistic, artistic, anime, etc.
-- **Best for**: Complex illustrations, detailed diagrams
+- **Miễn phí**: 150 tín dụng/ngày
+- **Chất lượng**: Rất cao, cấp độ chuyên nghiệp
+- **Phong cách**: Ảnh thực, nghệ thuật, anime, v.v.
+- **Tốt nhất cho**: Minh họa phức tạp, sơ đồ chi tiết
 
 #### 🔥 Bing Image Creator (DALL-E 3)
 - **Website**: [bing.com/images/create](https://bing.com/images/create)
-- **Miễn phí**: Unlimited với Microsoft account
+- **Miễn phí**: Không giới hạn với tài khoản Microsoft
 - **Công nghệ**: DALL-E 3 by OpenAI
 - **Ưu điểm**: Không giới hạn, chất lượng rất tốt
 
 #### 🎭 Midjourney (qua Discord)
 - **Website**: [midjourney.com](https://midjourney.com)
-- **Miễn phí**: 25 generations/tháng (trial)
-- **Chất lượng**: Exceptional artistic quality
-- **Interface**: Discord bot (cần học cách sử dụng)
+- **Miễn phí**: 25 lần tạo/tháng (dùng thử)
+- **Chất lượng**: Chất lượng nghệ thuật đặc biệt
+- **Giao diện**: Bot Discord (cần học cách sử dụng)
 
 #### 🌟 Playground AI
 - **Website**: [playgroundai.com](https://playgroundai.com)
 - **Miễn phí**: 1000 images/ngày
-- **Tính năng**: Multiple models, easy editing
-- **Phù hợp**: Beginners, multiple style options
+- **Tính năng**: Nhiều mô hình, chỉnh sửa dễ dàng
+- **Phù hợp**: Người mới bắt đầu, nhiều tùy chọn phong cách
 
-### 🎥 AI Video & Presentation
+### 🎥 Video & Bài thuyết trình AI
 
 #### 🎬 InVideo AI
 - **Website**: [invideo.io](https://invideo.io)
-- **Miễn phí**: 10 minutes video/tháng
-- **Tính năng**: Text-to-video, voice synthesis
-- **Templates**: Educational content, tutorials
-- **Languages**: Hỗ trợ tiếng Việt voice
+- **Miễn phí**: 10 phút video/tháng
+- **Tính năng**: Văn bản thành video, tổng hợp giọng nói
+- **Mẫu**: Nội dung giáo dục, hướng dẫn
+- **Ngôn ngữ**: Hỗ trợ giọng nói tiếng Việt
 
 #### 📊 Gamma
 - **Website**: [gamma.app](https://gamma.app)
-- **Miễn phí**: 400 AI credits/tháng
-- **Tạo**: Presentations, documents, websites
-- **AI-powered**: Auto-design, content suggestions
-- **Export**: PDF, PowerPoint compatible
+- **Miễn phí**: 400 tín dụng AI/tháng
+- **Tạo**: Bài thuyết trình, tài liệu, trang web
+- **Hỗ trợ AI**: Tự động thiết kế, gợi ý nội dung
+- **Xuất**: Tương thích PDF, PowerPoint
 
 #### 🎥 RunwayML
 - **Website**: [runwayml.com](https://runwayml.com)
-- **Miễn phí**: Limited generations
-- **Tính năng**: Video editing, generation, effects
-- **Advanced**: Green screen, motion tracking
+- **Miễn phí**: Số lần tạo có giới hạn
+- **Tính năng**: Chỉnh sửa video, tạo, hiệu ứng
+- **Nâng cao**: Màn hình xanh, theo dõi chuyển động
 
 #### 📹 Synthesia
 - **Website**: [synthesia.io](https://synthesia.io)
 - **Miễn phí**: 3 minutes/tháng
-- **Tính năng**: AI avatars speaking your text
-- **Languages**: 120+ languages including Vietnamese
-- **Use case**: Video lectures, announcements
+- **Tính năng**: Hóa thân AI nói văn bản của bạn
+- **Ngôn ngữ**: 120+ ngôn ngữ bao gồm tiếng Việt
+- **Trường hợp sử dụng**: Bài giảng video, thông báo
 
 #### 🎞️ Pictory AI
 - **Website**: [pictory.ai](https://pictory.ai)
 - **Miễn phí**: 3 videos/tháng
-- **Tính năng**: Article to video, long video summarization
-- **Perfect for**: Converting lesson text to video
+- **Tính năng**: Bài viết thành video, tóm tắt video dài
+- **Hoàn hảo cho**: Chuyển đổi văn bản bài học thành video
 
-### 📝 AI Assessment & Quiz Tools
+### 📝 Công cụ Đánh giá & Kiểm tra AI
 
 #### 🧠 QuillBot AI
 - **Website**: [quillbot.com](https://quillbot.com)
-- **Tools**: Grammar checker, paraphraser, quiz maker
-- **Miễn phí**: Basic features unlimited
-- **Quiz Generator**: Automatically create questions from text
+- **Công cụ**: Kiểm tra ngữ pháp, diễn đạt lại, tạo câu hỏi
+- **Miễn phí**: Tính năng cơ bản không giới hạn
+- **Tạo câu hỏi**: Tự động tạo câu hỏi từ văn bản
 
 #### 📋 Quizizz AI
 - **Website**: [quizizz.com](https://quizizz.com)
-- **AI Features**: Auto-generate questions, personalized feedback
-- **Miễn phí**: Full features for teachers
-- **Integration**: Google Classroom, Microsoft Teams
+- **Tính năng AI**: Tự động tạo câu hỏi, phản hồi cá nhân hóa
+- **Miễn phí**: Đầy đủ tính năng cho giáo viên
+- **Tích hợp**: Google Classroom, Microsoft Teams
 
 #### ✅ Kahoot! AI (Beta)
 - **Website**: [kahoot.com](https://kahoot.com)
-- **AI Features**: Question generation from content
-- **Miễn phí**: Basic plan with AI features
-- **Engagement**: Real-time student interaction
+- **Tính năng AI**: Tạo câu hỏi từ nội dung
+- **Miễn phí**: Gói cơ bản với tính năng AI
+- **Tương tác**: Tương tác học sinh thời gian thực
 
 #### 📊 Socrative
 - **Website**: [socrative.com](https://socrative.com)
-- **Features**: Quick polls, quizzes, real-time results
-- **AI Integration**: Smart question suggestions
-- **Mobile**: Excellent mobile app for students
+- **Tính năng**: Thăm dò nhanh, kiểm tra, kết quả thời gian thực
+- **Tích hợp AI**: Gợi ý câu hỏi thông minh
+- **Di động**: Ứng dụng di động tuyệt vời cho học sinh
 
 ## 🧰 AI Tools bổ sung hữu ích
 
-### 🔤 Language & Translation
+### 🔤 Ngôn ngữ & Dịch thuật
 
 #### 🌍 DeepL
 - **Website**: [deepl.com](https://deepl.com)

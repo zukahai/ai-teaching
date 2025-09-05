@@ -81,25 +81,25 @@ AI chỉ là **công cụ hỗ trợ** giúp giáo viên làm việc **hiệu qu
 - Ví dụ cụ thể và nhiều case study
 
 **2. Hỏi đáp online**:
-- Group Facebook "AI cho Giáo viên Việt Nam" (5000+ thành viên)
-- Discord server với các chuyên gia
-- Email support: [support@ai-teaching.vn]
+- Nhóm Facebook "AI cho Giáo viên Việt Nam" (5000+ thành viên)
+- Máy chủ Discord với các chuyên gia
+- Hỗ trợ qua email: [support@ai-teaching.vn]
 
 **3. Hỗ trợ 1-1**:
 - Booking lịch trao đổi trực tiếp (30 phút miễn phí)
-- Mentoring program với giáo viên có kinh nghiệm
+- Chương trình cố vấn với giáo viên có kinh nghiệm
 
 ### ❓ Sau khóa học tôi có được chứng chỉ không?
 
 **Trả lời**: **Có!** Bạn sẽ nhận được:
 
 **🏆 Chứng chỉ hoàn thành khóa học** (miễn phí):
-- Điều kiện: Hoàn thành 80% bài học + 1 project cuối khóa
+- Điều kiện: Hoàn thành 80% bài học + 1 dự án cuối khóa
 - Ký tên bởi: Trung tâm AI Giáo dục Việt Nam
 - Có thể in ra và treo tại lớp học
 
-**🌟 Chứng chỉ AI Teaching Specialist** (trả phí):
-- Điều kiện: Qua bài thi trực tuyến + project nâng cao
+**🌟 Chứng chỉ Chuyên gia Giảng dạy AI** (trả phí):
+- Điều kiện: Qua bài thi trực tuyến + dự án nâng cao
 - Được công nhận bởi: Hiệp hội Giáo viên Việt Nam
 - Có giá trị trong CV và thăng tiến
 
@@ -138,7 +138,7 @@ AI chỉ là **công cụ hỗ trợ** giúp giáo viên làm việc **hiệu qu
 
 ### ❓ AI có thể tạo ra nội dung sai không?
 
-**Trả lời**: **Có**, AI có thể tạo ra thông tin sai. Đây được gọi là **"hallucination"**.
+**Trả lời**: **Có**, AI có thể tạo ra thông tin sai. Đây được gọi là **"ảo giác"** (hallucination).
 
 **Tỷ lệ sai thông thường**:
 - Thông tin cơ bản: 5-10%
@@ -170,7 +170,7 @@ Tôi là giáo viên [môn học] lớp [X]. Hãy [yêu cầu cụ thể] với 
 
 🎯 YÊU CẦU:
 - [Mục tiêu cụ thể]
-- [Format mong muốn]
+- [Định dạng mong muốn]
 
 📝 LƯU Ý:
 - Phù hợp học sinh Việt Nam
@@ -213,7 +213,7 @@ Tôi là giáo viên Toán lớp 9. Hãy tạo giáo án bài "Phương trình b
 - Copy style của artist còn sống
 - Sử dụng ảnh AI để bán kiếm lời
 
-**🎯 Best practice**:
+**🎯 Thực hành tốt nhất**:
 - Ghi chú "Hình ảnh được tạo bằng AI"
 - Chỉ dùng cho giảng dạy, không thương mại
 - Tránh tạo ảnh nhạy cảm hoặc không phù hợp
@@ -222,7 +222,7 @@ Tôi là giáo viên Toán lớp 9. Hãy tạo giáo án bài "Phương trình b
 
 ### ❓ Máy tính của tôi có đủ mạnh để chạy AI không?
 
-**Trả lời**: **Có!** Tất cả AI tools trong khóa học đều chạy trên **cloud** (đám mây), không cần máy tính mạnh.
+**Trả lời**: **Có!** Tất cả công cụ AI trong khóa học đều chạy trên **đám mây**, không cần máy tính mạnh.
 
 **Yêu cầu tối thiểu**:
 - Máy tính từ 2015 trở lên (hoặc smartphone từ 2018)
@@ -230,23 +230,23 @@ Tôi là giáo viên Toán lớp 9. Hãy tạo giáo án bài "Phương trình b
 - Kết nối internet: 5 Mbps ổn định
 - Trình duyệt: Chrome, Safari, Edge mới nhất
 
-**Lưu ý**: AI chạy trên server của Google, OpenAI, Microsoft... nên máy tính của bạn chỉ cần hiển thị kết quả.
+**Lưu ý**: AI chạy trên máy chủ của Google, OpenAI, Microsoft... nên máy tính của bạn chỉ cần hiển thị kết quả.
 
 ### ❓ Nếu không có internet thì sao?
 
 **Trả lời**: **Cần internet** để sử dụng AI, nhưng có cách **backup**:
 
 **📱 Sử dụng 4G di động**:
-- Hầu hết AI tools tiêu thụ ít data (2-5MB/giờ)
+- Hầu hết công cụ AI tiêu thụ ít dữ liệu (2-5MB/giờ)
 - Có thể dùng hotspot điện thoại
 
 **💾 Chuẩn bị offline**:
 - Tải sẵn hình ảnh AI tạo ra
-- Copy content AI vào Word để dùng offline
-- Chuẩn bị backup plan cho mỗi bài học
+- Sao chép nội dung AI vào Word để dùng offline
+- Chuẩn bị kế hoạch dự phòng cho mỗi bài học
 
 **🏫 Đề xuất với trường**:
-- Upgrade internet để ổn định hơn
+- Nâng cấp internet để ổn định hơn
 - Tạo WiFi riêng cho giáo viên
 
 ### ❓ Tôi quên mật khẩu tài khoản AI thì sao?
@@ -255,9 +255,9 @@ Tôi là giáo viên Toán lớp 9. Hãy tạo giáo án bài "Phương trình b
 
 **1. ChatGPT/OpenAI**:
 - Vào chat.openai.com
-- Click "Forgot password?"
+- Nhấp "Quên mật khẩu?"
 - Nhập email đã đăng ký
-- Check email và làm theo hướng dẫn
+- Kiểm tra email và làm theo hướng dẫn
 
 **2. Google Bard**:
 - Sử dụng Gmail account
@@ -267,7 +267,7 @@ Tôi là giáo viên Toán lớp 9. Hãy tạo giáo án bài "Phương trình b
 - Vào canva.com/forgot-password
 - Nhập email hoặc số điện thoại
 
-**💡 Mẹo**: Dùng Google account để đăng ký tất cả tools, dễ quản lý hơn.
+**💡 Mẹo**: Dùng tài khoản Google để đăng ký tất cả công cụ, dễ quản lý hơn.
 
 ## 🎓 Câu hỏi về ứng dụng thực tế
 
@@ -301,7 +301,7 @@ Tôi là giáo viên Toán lớp 9. Hãy tạo giáo án bài "Phương trình b
 - "Không an toàn về dữ liệu"
 
 **💡 Cách giải thích cho phụ huynh**:
-1. **Họp phụ huynh**: Demo trực tiếp AI tạo bài giảng hay
+1. **Họp phụ huynh**: Trình diễn trực tiếp AI tạo bài giảng hay
 2. **Giải thích vai trò**: AI chỉ hỗ trợ, giáo viên vẫn là trung tâm
 3. **Thể hiện kết quả**: Con em học tốt hơn, hứng thú hơn
 4. **Đảm bảo an toàn**: Không thu thập thông tin cá nhân học sinh
@@ -323,10 +323,10 @@ Tôi là giáo viên Toán lớp 9. Hãy tạo giáo án bài "Phương trình b
 **🎯 Cách thuyết phục hiệu trưởng**:
 1. **Bắt đầu nhỏ**: Dùng AI cho việc cá nhân trước
 2. **Thể hiện kết quả**: Bài giảng chất lượng cao, học sinh hứng thú
-3. **Chia sẻ kinh nghiệm**: Tổ chức workshop cho đồng nghiệp
+3. **Chia sẻ kinh nghiệm**: Tổ chức hội thảo cho đồng nghiệp
 4. **Đề xuất chính sách**: Viết proposal về AI trong trường
 
-**📄 Template đề xuất**:
+**📄 Mẫu đề xuất**:
 ```
 Đề xuất: Ứng dụng AI hỗ trợ giảng dạy
 
@@ -340,7 +340,7 @@ Thử nghiệm:
 - Đánh giá kết quả và điều chỉnh
 - Mở rộng nếu hiệu quả
 
-Ngân sách: 0đ (dùng tools miễn phí)
+Ngân sách: 0đ (dùng công cụ miễn phí)
 ```
 
 ## 🚀 Câu hỏi về tương lai
@@ -357,14 +357,14 @@ Ngân sách: 0đ (dùng tools miễn phí)
 
 **🔮 Kỹ năng giáo viên tương lai**:
 - **AI literacy**: Biết sử dụng AI hiệu quả
-- **Emotional intelligence**: Hiểu và hỗ trợ cảm xúc học sinh
-- **Critical thinking**: Đánh giá và lọc thông tin
-- **Creativity**: Tạo ra trải nghiệm học tập độc đáo
+- **Trí tuệ cảm xúc**: Hiểu và hỗ trợ cảm xúc học sinh
+- **Tư duy phản biện**: Đánh giá và lọc thông tin
+- **Sáng tạo**: Tạo ra trải nghiệm học tập độc đáo
 
 **⚡ Cơ hội nghề nghiệp mới**:
-- **AI Education Specialist**: Chuyên gia tích hợp AI
-- **Learning Experience Designer**: Thiết kế trải nghiệm học
-- **Educational Data Analyst**: Phân tích dữ liệu học tập
+- **Chuyên gia Giáo dục AI**: Chuyên gia tích hợp AI
+- **Nhà thiết kế Trải nghiệm Học tập**: Thiết kế trải nghiệm học
+- **Chuyên viên Phân tích Dữ liệu Giáo dục**: Phân tích dữ liệu học tập
 
 ### ❓ Có cần phải học lập trình không?
 
@@ -373,17 +373,17 @@ Ngân sách: 0đ (dùng tools miễn phí)
 **🎯 Cần thiết cho giáo viên thông thường**:
 - **Không cần** học lập trình phức tạp
 - **Hiểu cơ bản** cách AI hoạt động
-- **Biết sử dụng** no-code tools
+- **Biết sử dụng** công cụ không cần code
 
 **💡 Nếu muốn đi sâu hơn**:
 - **Python cơ bản**: Để hiểu AI tốt hơn
-- **Prompt engineering**: Viết lệnh AI hiệu quả
-- **Data analysis**: Phân tích kết quả học tập
+- **Kỹ thuật viết lệnh**: Viết lệnh AI hiệu quả
+- **Phân tích dữ liệu**: Phân tích kết quả học tập
 
 **📚 Lộ trình học thêm** (không bắt buộc):
 1. **Tháng 1-2**: Hoàn thành khóa học AI cơ bản này
 2. **Tháng 3-4**: Học Python cơ bản (Codecademy, freeCodeCamp)
-3. **Tháng 5-6**: Tìm hiểu về machine learning (Coursera)
+3. **Tháng 5-6**: Tìm hiểu về học máy (Coursera)
 
 ## 🛡️ Câu hỏi về an toàn và bảo mật
 
@@ -417,18 +417,18 @@ Ngân sách: 0đ (dùng tools miễn phí)
 - **Mật khẩu mạnh**: Ít nhất 12 ký tự, có số và ký hiệu
 - **2FA**: Bật xác thực 2 lớp cho tất cả tài khoản
 - **Đăng xuất**: Luôn đăng xuất sau khi dùng xong
-- **Update**: Cập nhật browser và app thường xuyên
+- **Cập nhật**: Cập nhật trình duyệt và ứng dụng thường xuyên
 
 **⚠️ Dấu hiệu cảnh báo**:
 - Email lạ yêu cầu đăng nhập
-- Website giả mạo (kiểm tra URL)
+- Trang web giả mạo (kiểm tra URL)
 - Yêu cầu thanh toán đột xuất
 
 **📞 Khi gặp sự cố**:
 1. Đổi mật khẩu ngay lập tức
 2. Kiểm tra hoạt động đăng nhập
 3. Báo cáo cho IT của trường
-4. Liên hệ support của platform
+4. Liên hệ hỗ trợ của nền tảng
 
 ## 📞 Liên hệ và hỗ trợ
 
@@ -437,8 +437,8 @@ Ngân sách: 0đ (dùng tools miễn phí)
 **Trả lời**: Chúng tôi có **hệ thống hỗ trợ đa kênh**:
 
 **💬 Hỗ trợ cộng đồng** (Miễn phí):
-- **Facebook Group**: "AI cho Giáo viên Việt Nam" (5000+ thành viên)
-- **Discord Server**: Chat realtime với experts
+- **Nhóm Facebook**: "AI cho Giáo viên Việt Nam" (5000+ thành viên)
+- **Máy chủ Discord**: Trò chuyện thời gian thực với chuyên gia
 - **Telegram**: Thông báo cập nhật mới
 
 **📧 Hỗ trợ chính thức**:
@@ -454,33 +454,33 @@ Ngân sách: 0đ (dùng tools miễn phí)
 **🎥 Hỗ trợ 1-1** (Có phí):
 - **Video call**: 30 phút = 200,000đ
 - **Đào tạo tại trường**: 2,000,000đ/ngày
-- **Custom training**: Theo nhu cầu
+- **Đào tạo tùy chỉnh**: Theo nhu cầu
 
 ### ❓ Có khóa học nâng cao nào không?
 
 **Trả lời**: **Có!** Chúng tôi có roadmap học tập dài hạn:
 
-**🚀 AI Teaching Advanced** (Sắp ra mắt):
+**🚀 Giảng dạy AI Nâng cao** (Sắp ra mắt):
 - Thời lượng: 40 giờ
-- Nội dung: Custom AI models, advanced prompting, data analysis
+- Nội dung: Mô hình AI tùy chỉnh, viết lệnh nâng cao, phân tích dữ liệu
 - Đối tượng: Đã hoàn thành khóa cơ bản
 
-**👥 AI Leadership for Schools**:
+**👥 Lãnh đạo AI cho Trường học**:
 - Dành cho: Hiệu trưởng, phó hiệu trưởng
 - Nội dung: Chiến lược triển khai AI toàn trường
-- Format: Workshop 2 ngày
+- Hình thức: Hội thảo 2 ngày
 
-**🎓 Train-the-Trainer Program**:
+**🎓 Chương trình Đào tạo Huấn luyện viên**:
 - Đào tạo: Giáo viên thành trainer AI
-- Chứng chỉ: AI Education Certified Trainer
+- Chứng chỉ: Huấn luyện viên Giáo dục AI được Chứng nhận
 - Lợi ích: Có thể đào tạo cho trường khác
 
 **📅 Lộ trình học tập 12 tháng**:
 ```
-Tháng 1-3: AI Teaching Basics (khóa này)
-Tháng 4-6: AI Tools Advanced
-Tháng 7-9: AI in Education Research  
-Tháng 10-12: AI Leadership & Innovation
+Tháng 1-3: Cơ bản Giảng dạy AI (khóa này)
+Tháng 4-6: Công cụ AI Nâng cao
+Tháng 7-9: AI trong Nghiên cứu Giáo dục  
+Tháng 10-12: Lãnh đạo & Đổi mới AI
 ```
 
 ---
